@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CameraRecord</string>
+    <string name="message">Камера недоступна или не существует</string>
+    <string name="take_picture">Picture</string>
+    <string name="start_record">Start</string>
+    <string name="stop_record">Stop</string>
+</resources>
