@@ -22,7 +22,7 @@ import java.io.FileOutputStream;
 public class MainActivity extends Activity {
 
     SurfaceView surfaceView;
-    Camera camera;
+    Camera  camera;
     MediaRecorder mediaRecorder;
 
     File photoFile;
